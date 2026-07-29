@@ -6,7 +6,7 @@ An interactive **Tableau dashboard** built to analyze customer complaints across
 
 ## 🚀 Live Dashboard
 
-🔗 **View Dashboard:** *(Add your Tableau Public link here)*
+🔗 **View Dashboard:https://public.tableau.com/app/profile/prateek.ninganuri/viz/CostmerComplaintDashboard/Dashboard1?publish=yes
 
 ---
 
